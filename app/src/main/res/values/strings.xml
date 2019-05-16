@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Indicadores</string>
+    <string name="title_indicador1">Producción Nacional</string>
+    <string name="title_indicador2">Índice de Precios al Consumidor de Lima </string>
+    <string name="title_indicador3">Índice de Precios al Consumidor a Nivel Nacional</string>
+    <string name="title_indicador4">Índice de Precios al Por Mayor a Nivel Nacional</string>
+    <string name="title_indicador5">Índice de Precios de Materiales de Construcción</string>
+    <string name="title_indicador6">Índice de Precios de Maquinaria y Equipo de Lima</string>
+    <string name="title_indicador7">Población Proyectada</string>
+    <string name="title_indicador8">Tasa de Desempleo</string>
+    <string name="title_indicador9">Tasa Global de Fecundidad (Hijos x mujer)</string>
+    <string name="title_indicador10">Tasa Bruta de Natalidad (por mil)</string>
+    <string name="title_indicador11">Tasa Bruta de Mortalidad (por mil)</string>
+    <string name="title_indicador12">Tasa de Crecimiento Promedio Anual</string>
+    <string name="title_indicador13">Tasa de Mortalidad Infantil</string>
+    <string name="title_indicador14">PBI Trimestral</string>
+    <string name="title_indicador15">Factores de reajuste a obras de edificación a las 6 áreas geográficas</string>
+    <string name="title_indicador16">Índices unificados de precios para las seis áreas geográficas</string>
+
+</resources>
